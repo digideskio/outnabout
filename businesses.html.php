@@ -16,7 +16,7 @@
 
   <body>  
 
-    <p>Here are all the businesses in the database:</p>  
+    <p>Here are all of the businesses in the database:</p>  
 
     <?php foreach ($businesses as $business): ?>  
 
